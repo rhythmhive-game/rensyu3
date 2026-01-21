@@ -1,3 +1,3 @@
 # RHYTHM HIVE 攻略ページ　（非公式）
-[公式サイト](https://rhythmhive.drimage.com/ja)
-[公式サイト；お知らせページ](https://rhv-web.rhythmhive.drimage.com/notice/?lang=JA)
+[公式サイト](https://rhythmhive.drimage.com/ja)　/n
+[公式サイト：お知らせページ](https://rhv-web.rhythmhive.drimage.com/notice/?lang=JA)
